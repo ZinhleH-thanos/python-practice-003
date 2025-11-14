@@ -1,0 +1,25 @@
+Rosebank Weather
+---
+MON: 30
+TUE: 10
+WED: 70
+THU: 50
+FRI: 100
+---
+MON: 0
+TUE: 60
+WED: 90
+THU: 10
+FRI: 0
+---
+MON: 30
+TUE: 40
+WED: 0
+THU: 0
+FRI: 10
+---
+MON: 90
+TUE: 50
+WED: 80
+THU: 100
+FRI: 100
